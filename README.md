@@ -1,0 +1,2 @@
+# NixBox
+nixos install
