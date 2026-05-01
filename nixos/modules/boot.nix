@@ -6,7 +6,7 @@
         };
         grub = {
             enable = true;
-            timeout = 60
+            timeout = 60;
             efiSupport = true;
             #efiInstallAsRemovable = true;
             device = "nodev";
